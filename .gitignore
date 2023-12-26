@@ -1,0 +1,5 @@
+# ignore the google credentials json
+*.json
+#ignore all the PDF files
+*.PDF
+*.pdf
